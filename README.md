@@ -6,6 +6,16 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=ardadizdaroglu.ardadizdaroglu)
 
+- 💻 I’m currently learning about **Flutter**
+
+- 🤜🏻🤛🏻 I’m looking to collaborate on **mobile projects**
+
+- 💬 Ask me about **Java , Python, C#, Kotlin, Flutter**
+
+- 📧 How to reach me? **Connect to me via Email [Arda Dizdaroğlu](mailto:ardadizdaroglu@hotmail.com)**
+
+- ⚡ Fun fact: **I love to listen to music**
+
 I am an Android Developer & Python Developer & C# Developer & Mechatronics Engineer & Computer Engineer. 
 
 I love programming.
