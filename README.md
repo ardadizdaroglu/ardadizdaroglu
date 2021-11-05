@@ -6,6 +6,12 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=ardadizdaroglu.ardadizdaroglu)
 
+I am an Android Developer & Python Developer & C# Developer & Mechatronics Engineer & Computer Engineer. 
+
+I love programming.
+
+As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+
 📈 **My GitHub Stats:**
 
 <p>
