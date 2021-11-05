@@ -15,7 +15,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ardadizdaroglu&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" icon_color=FFFFFF text_color=FFFFFF bg_color=0D1117 src="https://github-readme-stats.vercel.app/api?username=ardadizdaroglu&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardadizdaroglu&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
