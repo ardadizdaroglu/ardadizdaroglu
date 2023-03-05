@@ -16,7 +16,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 - 🤜🏻🤛🏻 I’m looking to collaborate on **mobile projects**
 
-- 💬 Ask me about **Java , Python, C#, Kotlin, Flutter**
+- 💬 Ask me about **Kotlin, Java , Python, C#, Flutter**
 
 - 📧 How to reach me? **Connect to me via Email [Arda Dizdaroğlu](mailto:ardadizdaroglu@hotmail.com)**
 
